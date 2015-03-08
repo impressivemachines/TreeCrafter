@@ -1,10 +1,10 @@
 # TreeCrafter
-Full source code for the TreeCrafter app for iPad
+Full source code for the app store version of the TreeCrafter app for iPad
 
 See the product web site at http://treecrafter.com for examples of generated art.
 
 ## Description
-Tree Crafter is a graphic design app which allows you to magically create amazing tree designs using vector graphics. These designs are made using the mathematics of fractals. Its easy to create and edit beautiful organic designs as the user interface is very responsive and you immediately get to see the results of your changes. In addition, Tree Crafter incorporates an animation engine that allows you to get all kinds of mesmerizing effects.
+TreeCrafter is a graphic design app which allows you to magically create amazing tree designs using vector graphics. These designs are made using the mathematics of fractals. Its easy to create and edit beautiful organic designs as the user interface is very responsive and you immediately get to see the results of your changes. In addition, Tree Crafter incorporates an animation engine that allows you to get all kinds of mesmerizing effects.
 
 ## Features
 * Fun and easy to use for adults and children

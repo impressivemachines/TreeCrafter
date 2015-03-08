@@ -15,6 +15,10 @@ TreeCrafter is a graphic design app which allows you to magically create amazing
 * Export short animations
 * Export PDF vector graphics for high resolution printing and editing with Adobe Illustrator
 
+## Legal
+* TreeCrafter is a trademark of Impressive Machines LLC and cannot be used without permission
+* The terms of the software license do not permit you to re-sell this app on the Apple app store in essentially the same form
+
 ## Technical Details
 * Includes all code, icons, and media to build the app
 * Written in objective C and C++
